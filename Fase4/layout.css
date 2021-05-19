@@ -56,7 +56,6 @@ margin: 1.9em auto;
 
 display: grid;
 gap: 1.6em;
-grid-template-columns: repeat(2, 1fr);
 
 }
 .container > .menu,
